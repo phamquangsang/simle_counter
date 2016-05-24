@@ -15,7 +15,7 @@ public class SimpleCounter {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        for(long i=1 ; i<=100;++i){
+        for(long i=1 ; i<=200;++i){
             System.out.print(""+i+" ");
         }
       
